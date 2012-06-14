@@ -6,7 +6,7 @@ gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
 
 group :develoment, :test do
-  gem 'sqlite3', '1.3.6'
+  # gem 'sqlite3', '1.3.6'
   gem 'pg', '0.12.2'
   gem 'rspec-rails', '2.9.0'
   gem 'annotate', '~> 2.4.1.beta'
